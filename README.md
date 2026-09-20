@@ -1,7 +1,7 @@
 Hi, I'm Uthkarsh 👋
 Full Stack Developer · AI/ML Integration · CS Undergrad @ MGIT, Hyderabad
 I build production web and mobile products, usually with an AI layer somewhere in the middle. completed an AI Automation Engineer Internship at Techvitta Innovations, working on an AI Classroom Intelligence System for Andhra Pradesh government schools.
-🔭 Working on: AI-driven classroom analytics, Next.js + Supabase platforms, Flutter marketplaces
+🔭 Worked on: AI-driven classroom analytics, Next.js + Supabase platforms, Flutter marketplaces
 🌱 Learning: scalable backend architecture, model deployment, mobile release engineering
 💬 Ask me about: React/Node, Supabase, Streamlit ML apps, taking a project from localhost to production
 📫 Reach me: uthkarshreddy1215@gmail.com
