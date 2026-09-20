@@ -5,7 +5,6 @@ I build production web and mobile products, usually with an AI layer somewhere i
 🌱 Learning: scalable backend architecture, model deployment, mobile release engineering
 💬 Ask me about: React/Node, Supabase, Streamlit ML apps, taking a project from localhost to production
 📫 Reach me: uthkarshreddy1215@gmail.com
-🎓 B.Tech CSE, Expected May 2027
 ---
 🛠️ Tech Stack
 Languages
