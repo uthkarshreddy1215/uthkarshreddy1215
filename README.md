@@ -1,6 +1,6 @@
 Hi, I'm Uthkarsh 👋
 Full Stack Developer · AI/ML Integration · CS Undergrad @ MGIT, Hyderabad
-I build production web and mobile products, usually with an AI layer somewhere in the middle. Currently an AI Automation Engineer Intern at Techvitta Innovations, working directly with the founder on an AI Classroom Intelligence System for Andhra Pradesh government schools.
+I build production web and mobile products, usually with an AI layer somewhere in the middle. completed an AI Automation Engineer Internship at Techvitta Innovations, working on an AI Classroom Intelligence System for Andhra Pradesh government schools.
 🔭 Working on: AI-driven classroom analytics, Next.js + Supabase platforms, Flutter marketplaces
 🌱 Learning: scalable backend architecture, model deployment, mobile release engineering
 💬 Ask me about: React/Node, Supabase, Streamlit ML apps, taking a project from localhost to production
@@ -51,20 +51,3 @@ Contextual Q&A chatbot with a clean, API-driven backend architecture and a RESTf
 👟 AI-Driven Shoe Marketplace
 Node.js · MongoDB · ML
 Inventory and product listing platform with ML-powered recommendations and dynamic pricing.
----
-🏆 Beyond Code
-Organiser — HackSavvy-26, a national-level hackathon at MGIT with 200+ participants
-Finance Manager — HackSavvy-25, owning budgeting and sponsorship coordination
-Tech Club Member, MGIT — run hands-on full stack development sessions for peers
-250+ DSA problems solved across LeetCode and HackerRank
----
-📊 GitHub Stats
-![Uthkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=uthkarshreddy1215&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uthkarshreddy1215&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=uthkarshreddy1215&theme=tokyonight&hide_border=true)
----
-🌐 Connect
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-<sub>Languages: Telugu (Native) · Hindi (Fluent) · English (Fluent)</sub>
